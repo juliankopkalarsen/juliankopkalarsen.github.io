@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -8,7 +8,17 @@ author :
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 production_url : https://juliankopkalarsen.github.io
+baseurl: /
+url: https://juliankopkalarsen.github.io
 
-# Tell Github to use the kramdown markdown interpreter
-# (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
-markdown: kramdown
+# jekyll setup
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed

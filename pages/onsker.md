@@ -5,5 +5,5 @@ description: En liste over vores ønsker
 published: true
 ---
  
- - Stole fra fdm
+ - Stole fra fdb
  - Sonos højtalere

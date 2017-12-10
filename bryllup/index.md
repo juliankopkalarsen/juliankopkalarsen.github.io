@@ -1,3 +1,2 @@
 ## Christine og Julians bryllup
-
-Yay vi skal giftes!
+Mere info er på vej.

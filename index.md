@@ -1,1 +1,3 @@
-# Hej
+# Min side
+
+[Bryllup](bryllup)

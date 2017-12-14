@@ -12,7 +12,8 @@ Holdes i **Sognegården**
 Barakstien 2, 2970 Hørsholm
 
 # Festen
+*VIP only*
 Starter kl. 18:00 på **Restaurant Charlottenlund Fort**
 Strandvejen 150 2920 Charlottenlund
 
-[Ønsker](ønsker.html)
+# [Ønsker](ønsker.html)

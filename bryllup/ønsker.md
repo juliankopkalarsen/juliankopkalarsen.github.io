@@ -21,4 +21,3 @@
   - Dyson V6 Cord-Free støvsuger [Dyson](http://shop.dyson.dk/stovsugere/ledningsfri/dyson-v6-cord-free-227433-01)
 - Oplevelser
   - Weekendophold på Hotel Frederiksminde
-  - 

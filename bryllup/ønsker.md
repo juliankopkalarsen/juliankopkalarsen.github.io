@@ -16,3 +16,9 @@
 - Sonos
   - Play:5 i sort
   - Play:1 i hvid
+- Lampe Mr. Wattson i hvid [Magasin](https://www.magasin.dk/mr.-wattson-led-lampe/VA04450343-00000001_061.html)
+- iRobot Roomba 880 robotstøvsuger
+- Dyson V6 Cord-Free støvsuger [Dyson](http://shop.dyson.dk/stovsugere/ledningsfri/dyson-v6-cord-free-227433-01)
+- Oplevelser
+  - Weekendophold på Hotel Frederiksminde
+  - 

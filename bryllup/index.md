@@ -11,7 +11,7 @@ Ceremonien starter kl. 12:00 i
 **Hørsholm Kirke**
 Kirke allé 1 2970 Hørsholm
 
-#Festen
+# Festen
 
 Starter kl. 18:00 på 
 **Restaurant Charlottenlund Fort**

@@ -1,11 +1,18 @@
 ## Ønsker
 
 - Ting til haven
+  - Batteridreven hækkeklipper
+  - Udendørs kost (den der i træ med røde børster)
+  - Skuffejern
+  - Smal skovl til fjernelse af tidsler/mælkebøtter i græsplænen
+  - Skub-selv plæneklipper
+  - Tilskud til havemøbler
+  - Løvrive
 - Ting til huset
+  - Verner Panton Flowerpot VP1 i farverne "Mørk blå" og "Mustard"  
   - Royal Copenhagen, Hvid riflet
     - Krus 33 cl. sæt af 2 stk.
     - Tallerken 22 cm.
-    - Kande 1,7 L
     - Skåle 35 cl. sæt af 2 stk.
     - Æggebæger sæt af 2 stk.
   - Eva Trio
@@ -16,7 +23,6 @@
   - Sonos
     - Play:5 i sort
     - Play:1 i hvid
-  - Lampe Mr. Wattson i hvid [Magasin](https://www.magasin.dk/mr.-wattson-led-lampe/VA04450343-00000001_061.html)
   - iRobot Roomba 880 robotstøvsuger
   - Dyson V6 Cord-Free støvsuger [Dyson](http://shop.dyson.dk/stovsugere/ledningsfri/dyson-v6-cord-free-227433-01)
 - Oplevelser

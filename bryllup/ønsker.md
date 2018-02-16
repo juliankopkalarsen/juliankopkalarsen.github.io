@@ -9,6 +9,7 @@
   - Tilskud til havemøbler
   - Løvrive
 - Ting til huset
+  - Sangbogen 5 - spiralryg
   - Verner Panton Flowerpot VP1 i farverne "Mørk blå" og "Mustard"  
   - Royal Copenhagen, Hvid riflet
     - Krus 33 cl. sæt af 2 stk.

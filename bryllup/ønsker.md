@@ -1,5 +1,11 @@
 ## Ønsker
 
+Gaver kan koordineres igennem 
+Camilla Marie Bergsagel Nielsen
+Tlf: 20 73 33 40
+Email: camilla.bergsagel@gmail.com
+
+
 - Ting til haven
   - Batteridreven hækkeklipper
   - Udendørs kost (den der i træ med røde børster)

@@ -19,12 +19,12 @@ Strandvejen 150 2920 Charlottenlund
 
 ## Kontakt
 
-Taler og festlige indslag kan koordineres igennem toasmaster 
+Taler og festlige indslag kan koordineres med toastmaster 
 Jesper Larsen (gommens far)
 Tlf: 40 12 23 54
 Email: jekula@gmail.com
 
-Gaver kan koordineres igennem 
+Gaver kan koordineres med 
 Camilla Marie Bergsagel Nielsen
 Tlf: 20 73 33 40
 Email: camilla.bergsagel@gmail.com

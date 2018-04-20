@@ -4,7 +4,8 @@ title: Christine og Julians bryllup
 <center>21. april 2018</center>
 
 # Kirken
-Ceremonien starter kl. 12:00 i **Hørsholm Kirke**
+Ceremonien starter kl. 12:00 i **Hørsholm Kirke** 
+(I bedes være på plads i kirken 11:45)
 Kirke allé 1 2970 Hørsholm
 
 # Receptionen

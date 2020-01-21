@@ -12,3 +12,4 @@
 - Brio [Komfur med vask](https://www.brio.dk/produkter/alder/fra-3-ar/rolleleg---spil/komfur-med-vask) i hvid
 - Architectmade Bird af Kristian Vedel lille i lyst natur træ
 - Bobles Ælling, Kylling og Elefant
+- Natruba "Svane" badedyr

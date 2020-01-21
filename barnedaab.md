@@ -9,6 +9,6 @@
 - Junior [sengesæt Forest Floor Rose](https://filibabba.dk/shop/sovetid/junior-sengetoj/junior-sengesaet-forest-floor-rose-fi-ffr002.html)
 - Brd. Løvehjerte Stor udgave (Gaveudgave)
 - Ronja røverdatter Stor udgave
-- Lejekøkken
+- Brio [Komfur med vask](https://www.brio.dk/produkter/alder/fra-3-ar/rolleleg---spil/komfur-med-vask) i hvid
 - Architectmade Bird af Kristian Vedel lille i lyst natur træ
-- Bobles Kylling
+- Bobles Ælling, Kylling og Elefant

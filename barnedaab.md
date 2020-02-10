@@ -13,3 +13,8 @@
 - Architectmade Bird af Kristian Vedel lille i lyst natur træ
 - Bobles Ælling, Kylling og Elefant
 - Natruba "Svane" badedyr
+- Little Dutch dukke (Rosa)
+- Little Dutch dukke (Jim)
+- Puttekasse
+- Gavekort til Babysam
+- Deryan rejseseng baby (i farven Cream)

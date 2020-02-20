@@ -10,7 +10,11 @@
   - Manuel kantskærer til græsplænen
   - En Ryobi deltasliber 18V
   - Sonos 1
-  - Regnskov certifikat
+  - Regnskovscertifikat (Kapoktræ)[https://shop.verdensskove.org/regnskovscertifikater/kapoktrae-af-emil-landgreen-regnskovscertifikat-311]
   - Træer (https://teamtrees.org/)
+  - God magnetisk bitholder
+  - Hulsavsæt
+  - Gavekort til Fog, Silvan eller Bauhaus
+  - Vakuum Vinprop
   
   Jeg arbejder på flere ønsker.

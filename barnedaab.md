@@ -10,11 +10,17 @@
 - Brd. Løvehjerte Stor udgave (Gaveudgave)
 - Ronja røverdatter Stor udgave
 - Brio [Komfur med vask](https://www.brio.dk/produkter/alder/fra-3-ar/rolleleg---spil/komfur-med-vask) i hvid
+- Gryde/pande sæt til legekøkken
 - Architectmade Bird af Kristian Vedel lille i lyst natur træ
 - Bobles Ælling, Kylling og Elefant
-- Natruba "Svane" badedyr
+- Badedyr uden hul i fx. fra Natruba eller Tikiri
 - Little Dutch dukke (Rosa)
 - Little Dutch dukke (Jim)
 - Puttekasse
 - Gavekort til Babysam
+- Gavekort til NameIt
 - Deryan rejseseng baby (i farven Cream)
+- Mamamemo legemad
+- Yookidoo elefant baby bruser
+- Stabelbægre
+- Klassisk rød tre-hjulet cykel

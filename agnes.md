@@ -9,9 +9,10 @@
   - [Spisebordssæt](https://www.illumsbolighus.dk/boern/legetoej/toejdyr-og-dukker/dukker-og-tilbehoer/spisebordssaet-med-2-stole-901665122.html)
   - [Seng](https://mikkla.dk/maileg-dukkehus-tilbehor-seng-i-trae-til-mini-kanin-og-mus-rosa.html)
   - [Komfur](https://www.karrusella.dk/legetoej-spil/9731/maileg-komfur-metal)
-  - [Sæt tøj](https://mikkla.dk/maileg-mini-bunny-kanin-size-1-smart-shortsaet.html)
+  - [Kanin](https://mikkla.dk/maileg-mini-bunny-kanin-size-1-smart-shortsaet.html)
 - [Puky løbecykel](https://cykelshoppen.dk/lobecykel/puky-lr-1l-br-fra-90-cm-lobecykel-red)
 - Gymnastik dragt str. 104 (må gerne være med skørt)
 - [Høreværn](https://www.denintelligentekrop.dk/banz-hoerevaern-2-10-aar-moenstret)
 - Sækkestol (ikke pang-farver)
 - Legetøj til sandkassen (gerne bioplast)
+- Ikea Sundvik børnebord (60x45) og stol

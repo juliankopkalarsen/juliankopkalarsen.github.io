@@ -1,4 +1,5 @@
 ## Ønsker
+- Zwilling Jessica junior bestik
 - Bobles Ælling og Kylling. Gerne brugt hvis i god stand.
 - Badedyr uden hul i fx. fra Natruba eller Tikiri
 - Puttekasse

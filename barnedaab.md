@@ -5,6 +5,7 @@
 - Puttekasse
 - [Stabel klodser](https://www.kids-world.dk/djeco-stabelklodser-10-stk-rainbow-p-216931.html?source=google_shopping&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3BfGHr0ZwK5dgm_BNZ2w3JUMax38h03cDiT7crSjoKqpLDIyNdVX_xoC_T0QAvD_BwE)
 - Magnatiles magnet byggeklodser
+- Stokke storage bakke i sort, alternativt hvid
 - Gavekort til Babysam
 - Gavekort til NameIt
 - Yookidoo elefant baby bruser
